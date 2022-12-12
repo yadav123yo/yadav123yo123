@@ -76,7 +76,7 @@ const Projects = () => {
             `}
             
             deploy={"https://cun-week.vercel.app/"}
-            git={"https://github.com/yadav123yo/cun_week"}
+            git={"https://github.com/AkashPanda1701/pink-pot-9002"}
           />
         </GridItem>
 
