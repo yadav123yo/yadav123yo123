@@ -75,7 +75,7 @@ const Projects = () => {
             Sign-in/Sign-up, Reusable Navbar, User authentication, Cart Functionality
             `}
             
-            deploy={"https://cun-week.vercel.app/"}
+            deploy={"https://shopoholik.vercel.app/"}
             git={"https://github.com/AkashPanda1701/pink-pot-9002"}
           />
         </GridItem>
